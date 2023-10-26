@@ -1,4 +1,4 @@
-# Database Systems (CS305) Lab 5 Assignment
+# Database Systems (CS305) Lab 6 Assignment
 
 A Complete Database Management System driven by Python.
 
