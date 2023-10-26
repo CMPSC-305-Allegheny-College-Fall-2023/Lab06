@@ -51,7 +51,7 @@ Please place all database building code in the file `src/build_DB.txt`.
 
 ## The Database Manager (Python)
 
-You will implement a manager system in Python for the local database that you previously created with a build file, and the given data. Your DBMS must engage with this database and allow users to interact with the data.
+You will implement a manager system in Python for the local database that you previously created with a build file, and the given data. Your DBMS must engage with this database and allow users to interact with the data. Your manager will permit the user to implement common CRUD (i.e., create, read, update and delete) functionalities in SQLite databases.
 
 *Think Intuitively*: Please spend time to consider how best to help the database user to utilize your menu system to find information. One handy function that you would want to build in to the menu would be a `.table` and `.schema` command (or similar) to show what kinds of data there is available for interaction.
 
