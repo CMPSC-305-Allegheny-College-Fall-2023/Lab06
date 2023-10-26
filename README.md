@@ -41,7 +41,7 @@ The data for this project concerns the Rick and Morty cartoon series, and was av
 
 ### The Build File
 
-Using on the data, your task is to design and implement this database system from scratch. You will have to create all three tables (there are `cvs` files provided as the data) and use primary and foreign keys where appropriate.
+Using the data, your task is to design and implement this database system from scratch. You will have to create all three tables (there are `cvs` files provided as the data) and use primary and foreign keys where appropriate.
 
 To create the tables, you will have to determine the names of the attributes from the data files.
 
