@@ -39,7 +39,7 @@ jobs:
         #   with:
         #     poetry-version: 1.1.8    
 
-        # Run makeEdit.py to determine if errors exist
+        # Run src/myDBMS.py to determine if errors exist
 
         - name: Run src/myDBMS.py
           if: always()
