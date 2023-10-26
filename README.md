@@ -35,7 +35,7 @@ From given data, in this lab, you will be building a simple database management 
 
 ## The Rick and Morty Data
 
-![logo](graphics/rickAndMorty.png)
+![logo](graphics/rickandmorty.png)
 
 The data for this project concerns the Rick and Morty cartoon series, and was available from Kaggle at [https://www.kaggle.com/datasets/igorbettio/rick-and-morty-data] (https://www.kaggle.com/datasets/igorbettio/rick-and-morty-data) at the time of this lab write-up. The data is provided for you in the `src/data/`. There are three files in the data; `characters.csv`, `episodes.csv`, and `locations.csv`.
 
